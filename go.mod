@@ -1,6 +1,8 @@
 module github.com/job79/argon2id
 
-go 1.19
+go 1.23.0
+
+toolchain go1.24.1
 
 require golang.org/x/crypto v0.36.0
 
